@@ -1,5 +1,6 @@
 const inicioMapa = () => {
     cargarTodosLosEventos();
+    //nuevo comentario
 }
 const cargarTodosLosEventos = () => {
 
