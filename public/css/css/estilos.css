@@ -1,0 +1,32 @@
+body{
+background-image: url("./public/img/fondo.jpg"); /* The image used */
+
+  height: 100vh; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+
+/*input{
+ color: #fafafa ;
+}
+#btn_ingresar{
+border-radius: 15px;
+}
+#btn_ingresar:hover {
+background:#1976d2 !important;
+ transform: scale(1.01) !important;
+ color: #fff !important;
+}
+
+#card_acceso{
+  background-color: rgba(0, 0, 0,0.9) !important;
+ 
+ 
+
+}
+
+.card{
+   border-radius:20px !important;  
+}*/

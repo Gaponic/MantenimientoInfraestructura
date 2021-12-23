@@ -1,0 +1,86 @@
+body{
+  background-color: #e8e8e8;
+}
+header{
+  background-color: #000;
+  height: 180px;
+}
+#t1{
+  color: #9e9e9e;
+  background-color: #eeeeee;
+  border:1px solid #fafafa;
+}
+#t1:focus{
+
+  background-color: #e0e0e0;
+}
+.tabs .indicator{
+  background-color:#039be5!important;
+}
+.background{
+  position: absolute;
+  z-index: 1;
+}
+#modal_areas{
+  width: 40% !important;
+}
+
+#tabla_tickets tbody {
+  overflow-y: scroll;
+
+}
+#pag{
+  background:#fafafa;
+  color: #000;
+}
+#pag:hover{
+  background-color:#0277bd ;
+  border-radius:30px;
+}
+#tabla_thead{
+  font-weight: normal !important;
+}
+
+
+
+
+.collapsible-body li a:hover{
+
+   background-color:#eeeeee  !important;
+   color: #0d47a1 !important;
+   transition:.55s;
+   border-bottom: 2px solid #0d47a1;
+   box-shadow: 1px 1px 6px #bdbdbd ;
+
+
+}
+li .collapsible-header:focus{
+    background-color: #82b1ff  !important;
+   transition:.89s;
+}
+
+
+#tabla_proceso{
+  font-size:12px;
+
+}
+
+
+#img{
+  width: 120px !important;
+   height: 120px !important;
+   position: relative;
+   left: 40px;
+}
+ #modal_new a:hover{
+     background-color:#fafafa !important ;
+     color:#0d47a1  !important;
+     transition:  0.7s !important;
+     font:weight !important;
+}
+
+
+#modal_nuevo input, textarea{
+    font-size:14px !important;
+}
+

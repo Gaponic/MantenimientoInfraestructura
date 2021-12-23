@@ -1,0 +1,22 @@
+.pointer {
+	cursor: pointer;
+}
+
+.no-drop {
+	cursor: no-drop;
+}
+
+.eye{
+	position: absolute;
+}
+.ps{	
+	padding-left: 5px;
+}
+
+#hide1{
+	display: none;
+}
+
+#hide3{
+	display: none;
+}

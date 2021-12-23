@@ -1,0 +1,7 @@
+.form-content {
+    display: none;
+}
+
+.form-content:nth-child(2) {
+    display: block;
+}
